@@ -4,6 +4,8 @@ Fault
 
 Defeat
 
+Dead
+
 Lose
 
 Win
